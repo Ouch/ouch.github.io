@@ -34,6 +34,7 @@ html, body {
   justify-content: center;
   align-items: center;
   text-align: center;
+  transform: translateY(-10%);
 }
 
 .title {
